@@ -65,6 +65,11 @@ We welcome contributions from the community to improve the DSA Visualizer. If yo
 
 5. **Submit a pull request to the main repository.**
    
+
+## License
+
+This project is licensed under the MIT License. For full details, please see the [License.md](https://github.com/SwapnilV26/algo-canvas/blob/main/License.md) file.
+
 ## Live
 
-https://app-algovisuals.netlify.app/
+[AlgoVisuals](https://app-algovisuals.netlify.app/)
